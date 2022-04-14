@@ -14,7 +14,7 @@ TIEMPO XD
 
 #INSTALACION 
 
-1 pkg install git 
+pkg install git 
 
 git clone https://github.com/HACKDRES2/MATASPLOIT
 
